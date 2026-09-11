@@ -1,0 +1,31 @@
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Datos\obj\Debug\net8.0\ref\Datos.dll
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Datos\obj\Debug\net8.0\ref\Datos.dll
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Datos\obj\Debug\net8.0\Datos.csproj.AssemblyReference.cache
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Datos\obj\Debug\net8.0\Datos.csproj.AssemblyReference.cache
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Datos\obj\Debug\net8.0\Datos.pdb

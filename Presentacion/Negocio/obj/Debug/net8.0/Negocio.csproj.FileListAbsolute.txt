@@ -1,0 +1,45 @@
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\bin\Debug\net8.0\Datos.dll
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\bin\Debug\net8.0\Datos.pdb
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\obj\Debug\net8.0\Negocio.csproj.Up2Date
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\agust\Downloads\Presentacion_corregido_FIX\Presentacion\Negocio\obj\Debug\net8.0\ref\Negocio.dll
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\bin\Debug\net8.0\Datos.dll
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\bin\Debug\net8.0\Datos.pdb
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\obj\Debug\net8.0\Negocio.csproj.Up2Date
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\agust\Downloads\Programacion en Capas - Ejercicios\Negocio\obj\Debug\net8.0\ref\Negocio.dll
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\bin\Debug\net8.0\Datos.dll
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\bin\Debug\net8.0\Datos.pdb
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\obj\Debug\net8.0\Negocio.csproj.Up2Date
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\PC-1\Downloads\Programación en Capas\Ejercicios\Programacion en Capas - Acceso a Base de Datos\Presentacion\Negocio\obj\Debug\net8.0\ref\Negocio.dll
